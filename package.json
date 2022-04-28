@@ -1,0 +1,14 @@
+{
+  "name": "todo-node",
+  "version": "1.0.0",
+  "description": "practice todo app to learn node",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Maricar Walters",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
